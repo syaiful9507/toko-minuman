@@ -1,0 +1,15 @@
+Nama Minuman:
+Kopi
+Teh
+Coklat
+Soda
+
+Ukuran:
+Small
+Medium
+Largest
+
+Penyajian:
+Dingin
+Hangat
+Panas
